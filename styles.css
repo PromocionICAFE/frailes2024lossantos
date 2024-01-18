@@ -8,7 +8,7 @@ object, embed {
     height: inherit !important;
 }
 
-#imagenSuelos {
+.imagenes {
     width: 100% !important;
     height: auto !important;
 }
