@@ -1,6 +1,10 @@
-object, body, html, embed {
+body, html {
     width: 100%;
-    height: inherit;
+    height: 100%;
+}
+
+object, embed {
+    height: auto;
 }
 
 #imagenSuelos {
