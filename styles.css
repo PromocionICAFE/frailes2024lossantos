@@ -1,6 +1,6 @@
 object, body, html {
     width: 100%;
-    height: auto;
+    height: inherit;
 }
 
 /*#imagenSuelos {
