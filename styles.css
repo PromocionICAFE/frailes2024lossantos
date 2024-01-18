@@ -1,9 +1,9 @@
 object, body, html {
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 
-#imagenSuelos {
+/*#imagenSuelos {
     width: 100% !important;
     height: auto !important;
-}
+}*/
